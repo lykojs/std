@@ -3,7 +3,7 @@
 </p> -->
 
 <h1 align="center">
-Std
+Lyko.std
 </h1>
 
 <p align="center">
