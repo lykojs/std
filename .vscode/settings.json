@@ -7,5 +7,11 @@
   },
   "[json][jsonc][jsonl][snippets][yaml]": {
     "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[html][css][scss][less]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
+  },
+  "[vue]": {
+    "editor.defaultFormatter": "oxc.oxc-vscode"
   }
 }

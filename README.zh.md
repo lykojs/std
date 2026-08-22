@@ -17,11 +17,11 @@ Lyko.std
 </p>
 <br> -->
 
-<!-- <br>
+<br>
 <p align="center">
 <a href="./README.md">English</a> |
 <span>简体中文</span>
-</p> -->
+</p>
 
 <!-- ## 简介
 

@@ -1,2 +1,2 @@
 minimumReleaseAgeExclude:
-  - "@smallmains/dev@1.6.2"
+  - "@smallmains/dev"
