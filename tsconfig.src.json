@@ -1,0 +1,11 @@
+{
+  "extends": "@smallmains/dev/ts/generic.json",
+  "compilerOptions": {
+    "composite": true,
+    "emitDeclarationOnly": true,
+    "outDir": "out-tsc/src",
+    "rootDir": "src"
+  },
+  "include": ["src"],
+  "exclude": ["src/**/*.test.*", "src/**/*.spec.*", "src/**/*.test-d.*", "src/**/*.spec-d.*"]
+}

@@ -1,0 +1,20 @@
+{
+  "extends": "@smallmains/dev/ts/generic.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": true,
+    "outDir": "out-tsc"
+  },
+  "include": [
+    "src/**/*.test.*",
+    "src/**/*.spec.*",
+    "src/**/*.test-d.*",
+    "src/**/*.spec-d.*",
+    "tests"
+  ],
+  "references": [
+    {
+      "path": "./tsconfig.src.json"
+    }
+  ]
+}

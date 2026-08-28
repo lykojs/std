@@ -1,0 +1,9 @@
+{
+  "extends": "@smallmains/dev/ts/generic.json",
+  "compilerOptions": {
+    "composite": true,
+    "noEmit": true,
+    "outDir": "out-tsc"
+  },
+  "include": ["*.config.ts"]
+}
